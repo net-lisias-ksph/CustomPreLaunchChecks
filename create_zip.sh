@@ -35,3 +35,5 @@ sed -i "s/BUILD\":.*/BUILD\":$BUILD/" GameData/${PROJECTNAME}/${PROJECTNAME}.ver
 
 
 /c/Program\ Files/7-Zip/7z.exe a -r  $FILENAME GameData
+
+sleep 10

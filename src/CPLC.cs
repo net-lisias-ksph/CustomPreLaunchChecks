@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CustomPreLaunchChecks
 {
-    public class API
+    public class CPLC
     {
         public static void RegisterCheck(Func<string, PreFlightTests.IPreFlightTest> check)
         {
