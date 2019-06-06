@@ -1,7 +1,7 @@
 #/usr/bin/bash
 #
 #
-PROJECTNAME=AdvancedTextures
+PROJECTNAME=CustomPreLaunchChecks
 
 cd /c/Git/${PROJECTNAME}
 
