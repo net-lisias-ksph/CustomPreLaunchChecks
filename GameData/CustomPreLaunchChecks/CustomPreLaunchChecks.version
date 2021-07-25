@@ -1,7 +1,7 @@
 {
-    	"NAME":"AdvancedTextures",
-	"URL":"https://raw.githubusercontent.com/GER-Space/CustomPreLaunchChecks/master/GameData/CustomPreLaunchChecks/CustomPreLaunchChecks.version",
-	"DOWNLOAD":"https://github.com/GER-Space/CustomPreLaunchChecks/releases",
+    	"NAME":"CustomPrelaunchChecks",
+	"URL":"https://raw.githubusercontent.com/KSP-RO/CustomPreLaunchChecks/master/GameData/CustomPreLaunchChecks/CustomPreLaunchChecks.version",
+	"DOWNLOAD":"https://github.com/KSP-RO/CustomPreLaunchChecks/releases",
 	"VERSION":
 	{
 		"MAJOR":1,
@@ -12,7 +12,7 @@
 	"KSP_VERSION":
 	{
 		"MAJOR":1,
-		"MINOR":8,
+		"MINOR":10,
 		"PATCH":1
 	},
     	"KSP_VERSION_MIN":
